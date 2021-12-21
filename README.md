@@ -1,4 +1,4 @@
 # share.sh
 
-Simply type share
-`share`
+Simply type
+`share`,this will  the current working directory locally.
